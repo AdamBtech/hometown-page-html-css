@@ -87,7 +87,7 @@ h1:hover{
   border-radius: 50%;
   border: 5px solid #a8dadc
 }
-@media all and (max-width:700px) {
+@media all and (max-width:1000px) {
     .body{
         display: flex;
     }
